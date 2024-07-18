@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "454624471516",
+    "project_id": "pingolearn-66607",
+    "storage_bucket": "pingolearn-66607.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454624471516:android:a536191ac57f5d74788719",
+        "android_client_info": {
+          "package_name": "com.example.login_signup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBoN5-FQGSPOzcAPrH5Tfka2WN3u8J_Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
