@@ -1,6 +1,6 @@
 # auth_firebase
 
-A new Flutter project.
+Flutter project.
 
 ## Getting Started
 
